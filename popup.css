@@ -1,0 +1,51 @@
+body{
+    background-color: #c9f6fe;
+}
+
+.textbox {
+    padding: 5px 9px;
+    margin-bottom: 6px;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+    size :15;
+    color:#0dced5;
+  }
+
+  
+.button {
+    width: 100%;
+    background-color: #06dde4;
+    color: #ffffff;
+    padding: 6px 9px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+.button :hover {
+    background-color: #00F5FF;
+  }
+
+img {
+    max-width: 100%;
+}
+
+.icons{
+    font-size: 3;
+    padding-top: 5%;
+  }
+.icon {
+  text-decoration: none
+}
+.icon :hover{
+    transform: scale(1.2);
+}
+
+
+.icon img{
+    width: 20px;
+    height: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
