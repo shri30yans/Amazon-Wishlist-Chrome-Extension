@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shri30yans/Amazon-Wishlist-Chrome-Extension">
-    <img src="images/icon128.png" alt="Logo" width="80" height="80">
+    <img src="icons/icon128.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Amazon Add to Wish List Chrome extension</h3>
