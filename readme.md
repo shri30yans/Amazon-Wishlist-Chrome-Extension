@@ -40,8 +40,9 @@ This Chrome Extension adds a product to your Amazon wishlist using the product's
 ### Usage
 
 1. Once installed select the extension. A popup will be seen.
-2. Enter the product's ASIN value.
-3. Click on the "Add to Wish List" button to add that product to your wishlist.
+2. Open any Amazon product page which has a Wish List button and is in stock.
+3. Enter the product's ASIN value in the popup.
+4. Click on the "Add to Wish List" button to add that product to your wishlist.
 
 
 
